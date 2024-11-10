@@ -25,7 +25,7 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Contact
-Have questions, feedback, or suggestions? Reach out to us at jprajwal551@gmail.com. We'd love to hear from you!
+Have questions, feedback, or suggestions? Reach out to us at We'd love to hear from you!
 
 Stay tuned for exciting updates and mobile compatibility, and don't forget to stay active and healthy with Movement! 🏋‍♂🌟
  
